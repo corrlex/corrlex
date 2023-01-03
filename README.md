@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @corrlex, or just call me Alex
-- 👀 I’m interested in redaing, coding and cats!
+- 👀 I’m interested in reading, coding and cats!
 - 🌱 I’m currently learning the basics of html and css
 - 💞️ I’m looking forward to a successfull 2023
 - 📫 Say hi on instagram @corrlex_codes
